@@ -2,7 +2,7 @@
 
 Dataset for classifying digits captured from sudoku boards.
 
-## My Android app that used this data to build the dl-cnn model
+## My Android app that used this data to build the dl-cnn model [Grid Guide]
 <img src="./screenshot.png" alt="screen shots of the app"><br>
 
 ## Data Distribution
