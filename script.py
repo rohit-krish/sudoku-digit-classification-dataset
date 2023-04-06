@@ -1,10 +1,10 @@
-import os
+from os import listdir
 import matplotlib.pyplot as plt
 
 data = {}
 
 for i in range(9):
-    data[str(i)] = len(os.listdir("./"+str(i)))
+    data[str(i)] = len(listdir("./"+str(i)))
 
 
 plt.bar(range(9), list(data.values()))
