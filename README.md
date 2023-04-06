@@ -1,6 +1,6 @@
 # sudoku-digit-classification-dataset
 
-Dataset for classifying digits captured from sudoku boards.
+## Dataset for classifying digits captured from sudoku boards.
 
 # [Grid Guide](https://play.google.com/store/apps/details?id=com.codewiz.grid_guide)
 <img src="./screenshot.png" alt="screen shots of the app"><br>
