@@ -1,4 +1,4 @@
-# sudoku-digit-classification-dataset
+# Sudoku Digit Classification Dataset
 
 ## Dataset for classifying digits captured from sudoku boards.
 
